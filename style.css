@@ -1,0 +1,1127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.rectangleDiv{
+    background-color:red;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.burgerDiv{
+    display: none;
+}
+
+.imgRect{
+    margin-left: -17px;    
+}
+
+.pinImg{
+    width: 50px;
+    height: 40px;
+}
+
+.smallDiv{
+    background-color: black;
+    height: 400px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.donilaImg{
+    width: 100px;
+    margin-top: 10px;
+}
+
+.copyDiv{
+    display: flex;
+    flex-direction: column;
+    height: 201px;
+    width: 20px;
+    justify-content: space-between;
+    margin-top: -2px;
+}
+
+.copyDiv img{
+    width: 16px;
+    height: 15px;
+}
+
+.parentDiv{
+    display: flex;
+}
+
+.homeDiv img{
+    height: 197px;
+    width: 110px;
+}
+
+.shape{
+    width: 150px;
+}
+
+.callPng{
+    width: 12px;
+    height: 17px;
+}
+
+.call{
+    height: 11px;
+    width: 140px;
+    margin-left: 5px;
+}
+
+.callDiv{
+    display: flex;
+    align-items: center;
+}
+
+.mailPng{
+    width: 16px;
+    height: 8px;
+}
+
+.mail{
+    height: 11px;
+    width: 110px;
+    margin-left: 5px;
+}
+
+.mailDiv{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.webDiv{
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+}
+
+.smallWeb{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+}
+
+.webDiv img{
+    filter: invert(1);
+}
+
+.header2{
+    background-image: url(bride-1868868_1.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 600px; 
+}
+
+.bigDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90%;
+    width: 100%;
+    position: relative;
+}
+
+.burger{
+    display: none;
+    filter: invert(1);
+}
+
+.many{
+    width: 600px;
+}
+
+.slacDiv{
+    position: absolute;
+    bottom: 15px;
+    right: 30px;
+    width: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.login{
+    width: 80px;
+    height: 12px;
+    justify-content: space-between;
+    display: flex;
+    align-self: center;
+}
+
+.loginDiv{
+    height: 10%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.searchDiv{
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+
+header{
+    display: flex;
+    color: white;
+}
+
+.wedding{
+    width: 480px;
+    height: 160px;
+}
+
+.centerDiv{
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.centerDiv  button{
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color: white;
+}
+
+.slacDiv img{
+    filter: drop-shadow(16px 16px 20px rgb(0, 0, 0)) invert(50%);
+}
+
+.qarankyun{
+    border-bottom:black 0.5px solid ;
+    margin-top: 50px;
+    width: 750px;
+    display: flex;
+    justify-content: center;
+}
+
+.qarankyun2{
+    border-bottom:black 0.5px solid ;
+    margin-top: 50px;
+    width: 750px;
+    display: flex;
+    justify-content: center;
+}
+
+.qarankyun img{
+    margin-bottom: -15px;
+}
+
+.qarankyun2 img{
+    margin-bottom: -15px;
+}
+
+.aboutUs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 700px;
+    justify-content: space-between;
+}
+
+.aboutImg{
+    width: 150px;
+    height: 35px;
+}
+
+.weddingImg{
+    width: 800px;
+    height: 500px;
+}
+
+.aboutUs p{
+    width: 800px;
+    text-align: center;
+}
+
+.aboutUs button{
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+
+.section1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bigSection1{
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nkar2Hat{
+    background-image: url("Rectangle 33.png") ,url("Layer 2.png");
+    background-repeat: no-repeat;
+    background-size: cover,cover;
+    background-position: 100%;
+    width: 220px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigSection2{
+    height: 800px;
+    margin-top: 50px;  
+}
+
+.smallDiv2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 700px;
+    justify-content: space-between;
+}
+
+.nkar2Hat button{
+    border: white solid 3px;
+    background-color: rgba(250, 235, 215, 0);
+    color: white;
+}
+
+.Jony{
+    font-size: 10px;
+    height: 30px;
+    color:white;
+    align-self: center;
+}
+
+.share3{
+    width: 50px;
+    align-self: center;
+}
+
+.thereAre{
+    width: 120px;
+    height: 130px;
+    align-self: center;
+}
+
+.readMore{
+    width: 120px;
+    height: 30px;
+    align-self: center;
+}
+
+.nkariMej{
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.jonyDiv{
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: center;
+}
+
+.nkarner{
+    display: flex;
+    width: 700px;
+    height: 500px;
+    justify-content: space-between;
+}
+
+.item1Div{
+    display: flex;
+    width: 220px;
+    flex-direction: column-reverse;
+    height: 500px;
+}
+
+.item1{
+    width: 220px;
+    height: 245px;
+    margin-top: 30px;
+}
+
+.item2{
+    width: 220px;
+    height: 245px;
+}
+
+.item3{
+    height: 500px;
+    width: 220px;
+}
+
+.loremP{
+    width: 530px;
+    text-align: center;
+}
+
+.seeMore{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 40px;
+}
+
+.witch{
+    width: 350px;
+    height: 250px;
+    color: white;
+}
+
+.seeMore2{
+    background-color: black;
+    width: 50%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.seeMore3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 400px;
+    height: 400px;
+    margin-left: 300px;
+}
+
+.ourStory{
+    width: 150px;
+    height: 30px;
+}
+
+.moreButton{
+    width: 160px;
+    height: 45px;
+    background-color: #E83D56;
+    color: white;
+}
+
+.chiImg{
+    width: 50%;
+    height: 600px;
+}
+
+.poqrSection{
+    display: flex;
+    width: 100%;
+    height: 600px;
+}
+
+.rectangleDiv2{
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.attendi{
+    width: 270px;
+    height: 35px;
+}
+
+.rectangle{
+    width: 270px;
+    height: 40px;
+}
+
+.rectangle29{
+    width: 150px;
+    height: 50px;
+}
+
+.rectangleSmall{
+    height: 200px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}
+
+.shanpain{
+    width: 280px;
+    height: 230px;
+}
+
+.bigDiv10{
+    display: flex;
+    height: 500px;
+    width: 600px;
+    align-items:center;
+    justify-content:space-between;
+}
+
+.enjoy{
+    position: absolute;
+    bottom: 50px;
+    left: 95px;
+    width: 90px;
+    height: 45px;
+}
+
+.shanpainDiv{
+    position: relative;
+}
+
+.australia{
+    height: 300px;
+    width: 600px;
+}
+
+.qarankyun3{
+    border-bottom:black 0.5px solid ;
+    margin-top: 50px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.qarankyun3 img{
+    margin-bottom: -15px;
+}
+
+.coupl{
+    width: 220px;
+    height: 30px;
+}
+
+.redDiv{
+    width: 100% ;
+    height: 70px;
+    background-color: #E83D56;
+    display: flex;
+    justify-content: center;
+}
+
+.cardDiv{
+    width: 260px;
+    height: 300px;
+    box-shadow: 2px 2px 10px #888888;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 280px;
+    height: 150px;
+}
+
+.carly{
+    width: 90px;
+    height: 90px;
+    margin-top: 30px;
+}
+
+.ron{
+    width: 100px;
+}
+
+.suffered{
+    width: 210px;
+    height: 90px;
+}
+
+.chakert{
+    width: 20px;
+    height: 20px;
+}
+
+.verj{
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    height: 230px;
+}
+
+.verjinDiv{
+    display: flex;
+    height: 400px;
+    width: 650px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.smallDiv15{
+    background-color: black;
+    width: 35px;
+    height: 35px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.verjinSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bigDiv20{
+    height: 120px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bigCard{
+    display: flex;
+    width: 550px;
+    justify-content: space-between;
+}
+
+footer{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.donlia{
+    height: 100px;
+    width: 120px;
+}
+
+.locationPng{
+    width: 10px;
+    height: 15px;
+}
+
+.tvyalner{
+    display: flex;
+    height: 50px;
+    width: 400px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mailDiv2{
+    display: flex;
+    align-items: center;
+}
+
+.borderBottom{
+    border-bottom:rgb(99, 91, 91) 1px solid;
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.righImg{
+    width: 300px;
+}
+
+@media only screen and (max-width:1300px){
+    .seeMore3{
+        margin: 0;
+    }
+}
+@media only screen and (max-width:1200px){
+    .wedding{
+        width: 300px;
+        height: 100px;
+    }
+
+    .many{
+        width: 500px;
+    }
+
+    .borderBottom{
+        width: 880px;
+    }
+
+    .centerDiv{
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width:1100px){
+    .chiImg{
+        height: 500px;
+    }
+
+    .seeMore2{
+        height: 500px;
+    }
+}
+
+@media only screen and (max-width:900px){
+    .qarankyun{
+        width: 550px;
+    }
+
+    .qarankyun2{
+        width: 550px;
+    }
+
+    .weddingImg{
+        width: 600px;
+        height: 400px;
+    }
+
+    .aboutUs p{
+        width: 600px;
+    }
+
+    .bigSection2{
+        height: 730px;
+    }
+
+    .aboutUs{
+        margin-top: 50px;
+    }
+    
+    .poqrSection{
+        flex-direction: column;
+        height: 1200px;
+    }
+
+    .chiImg{
+        width: 100%;
+    }
+
+    .seeMore2{
+        width: 100%;
+    }
+
+    .borderBottom{
+        width: 780px;
+    }
+
+    .chiImg{
+        height: 600px;
+    }
+
+    .seeMore2{
+        height: 600px;
+    }
+}
+
+@media only screen and (max-width:800px){
+    .wedding{
+        width: 250px;
+        height: 100px;
+    }
+    
+    .many{
+        width: 400px;
+    }
+    
+    .item1{
+        width: 190px;
+        height: 210px;
+    }
+
+    .item2{
+        width: 190px;
+        height: 210px;
+    }
+
+    .item3{
+        height: 440px;
+        width: 190px;
+    }
+
+    .nkar2Hat{
+        height: 440px;
+        width: 190px;
+    }
+
+    .item1Div{
+        height: 440px;
+        margin-left: 15px;
+    }
+
+    .nkarner{
+        width: 600px;
+    }
+
+    .bigDiv10{
+        width: 500px;
+    }
+
+    .shanpain{
+        width: 200px;
+        height: 170px;
+    }
+
+    .enjoy{
+        bottom: 50px;
+        left: 70px;
+        width: 60px;
+        height: 30px;
+    }
+
+    .attendi{
+        width: 200px;
+        height: 28px;
+    }
+
+    .australia{
+        width: 500px;
+    }
+
+    .qarankyun3{
+        width: 400px;
+    }
+
+    .bigCard{
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        height: 620px;
+        width: 250px;
+    }
+
+    .verjinDiv{
+        width: 400px;
+        height: 700px;
+        align-content: space-between;
+    }
+
+    .verj{
+        height: 130px;
+    }
+
+    .card{
+        margin-top: 30px;
+    }
+
+    .borderBottom{
+        width: 630px;
+    }
+}
+
+@media only screen and (max-width:650px){
+    .searchDiv{
+        width: 110px;
+    }
+
+    .search{
+        height: 15px;
+        width: 15px;
+    }
+
+    .burger{
+        display: block;
+        width: 50px;
+        height:40px;
+    }
+
+    .loginImg{
+        display: none;
+    }
+
+    .login{
+        justify-content: right;
+    }
+
+    .header1{
+        display: none;
+    }
+
+    .burgerDiv{
+        display: block;
+    }
+
+    .smallBurger{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .rectangleDiv1{
+        margin: 20px;
+    }
+
+    .bigBurger{
+        margin: 20px;
+    }
+
+    .centerDiv{
+        height: 300px;
+    }
+
+    .item3{
+        height: 440px;
+        width: 190px;
+    }
+
+    .nkar2Hat{
+        height: 440px;
+        width: 190px;
+    }
+
+    .item1Div{
+        display: none;
+    }
+
+    .nkarner{
+        width: 400px;
+    }
+
+    .smallDiv2{
+        height: 700px;
+    }
+
+    .seeMore{
+        margin-top: -50px;
+    }
+
+    .qarankyun{
+        width: 400px;
+        margin-top: 150px;
+    }
+
+    .qarankyun2{
+        width: 400px;
+    }
+
+    .weddingImg{
+        width: 400px;
+        height: 280px;
+    }
+
+    .aboutUs p{
+        width: 400px;
+    }
+
+    .bigSection2{
+        height: 730px;
+    }
+
+    .aboutUs{
+        margin-top: 50px;
+    }
+
+    .loremP{
+        width: 400px;
+    }
+    
+    .bigDiv10{
+        width: 400px;
+        flex-direction: column;
+    }
+
+    .rectangleDiv2{
+        align-items: center;
+        width: 300px;
+    }
+
+    .enjoy{
+        bottom: 50px;
+        left: 70px;
+        width: 60px;
+        height: 30px;
+    }
+
+    .attendi{
+        width: 200px;
+        height: 28px;
+    }
+
+    .australia{
+        width: 400px;
+        height: 250px;
+    }
+
+    .qarankyun3{
+        width: 300px;
+    }
+
+    .tvyalner{
+        flex-direction: column;
+        height: 100px;
+        margin-bottom: 10px;
+    }
+
+    .borderBottom{
+        width: 430px;
+    }
+
+    .rectangleDiv2{
+        margin-top: 50px;
+    }
+
+    .shanpainDiv{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .attendi{
+        margin-bottom: 20px;
+    }
+
+    .rectangle29{
+        margin-top: 20px;
+    }
+
+    .bigDiv10{
+        height: 600px;
+    }
+}
+
+@media only screen and (max-width:450px){
+    .wedding{
+        width: 150px;
+        height: 50px;
+    }
+
+    .many{
+        width: 300px;
+    }
+
+    .header2{
+        height: 550px;
+    }
+    
+    .item3{
+        height: 300px;
+        width: 145px;
+    }
+
+    .nkar2Hat{
+        height: 300px;
+        width: 145px;
+    }
+
+    .item1Div{
+        display: none;
+    }
+
+    .nkarner{
+        width: 300px;
+    }
+
+    .seeMore{
+        margin-top:-200px;
+    }
+
+    .qarankyun{
+        width: 200px;
+    }
+
+    .qarankyun2{
+        width: 290px;
+    }
+
+    .weddingImg{
+        width: 290px;
+        height: 200px;
+    }
+
+    .aboutUs p{
+        width: 290px;
+    }
+
+    .aboutUs{
+        margin-top: 50px;
+    }
+
+    .loremP{
+        width: 290px;
+    }
+
+    .Happy{
+        width: 200px;
+    }
+
+    .smallDiv2{
+        height: 500px;
+    }
+
+    .seeMore3{
+        width: 280px;
+    }
+
+    .witch{
+        width: 270px;
+    }
+
+    .coupl{
+        width: 150px;
+        height: 20px;
+    }
+
+    .australia{
+        width: 300px;
+        height: 200px;
+    }
+
+    .bigDiv10{
+        width: 300px;
+    }
+
+    .cardDiv{
+        width: 215px;
+    }
+
+    .verjinDiv{
+        width: 300px;
+    }
+
+    .card{
+        width: 200px;
+    }
+
+    .bigSection2{
+        height: 600px;
+    }
+
+    .rectangleDiv2{
+        margin-top: 10px;
+    }
+    
+    .borderBottom{
+        width: 280px;
+    }
+
+    .righImg{
+        width: 250px;
+        height: 15px;
+    }
+
+    .tvyalner{
+        width: 280px;
+    }
+}
